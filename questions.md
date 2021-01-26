@@ -1,2 +1,3 @@
 - Put your questions here (until Thursday)
   - Murat - benim sorum
+  - Ben Kenan - Benim yaptığım değişiklik geldi mi? Ben gönderdiğimi nasıl kontrol edebilirim?
