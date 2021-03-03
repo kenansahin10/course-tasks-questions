@@ -70,7 +70,7 @@ Arrays
 Takim #1
 - Suleyman - https://github.com/skulleci/4.hafta.git
 - Ahmet
-- Kemal
+- Kemal - https://github.com/kenansahin10/Kw4task.git
 - Selman
 - Numan
 
