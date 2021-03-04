@@ -71,8 +71,10 @@ Takim #1
 - Suleyman - https://github.com/skulleci/4.hafta.git
 - Ahmet - https://github.com/ahmetemre38/arrayOdev
 - Kemal
+
+- Selman
+- Numan - https://github.com/numangrl/week4homework.git
 - Selman - https://github.com/slmn-sari/week4homework.git
-- Numan
 
 Takim #2
 - Burhan - https://github.com/burhansaydin/array.git
