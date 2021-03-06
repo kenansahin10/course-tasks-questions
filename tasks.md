@@ -20,7 +20,7 @@
 ---------------------------------
 
   - Suleyman - https://github.com/skulleci/bootstrap_odev.git
-  - Ahmet EMRE - https://github.com/ahmetemre38/BootstrapExample1
+  - Ahmet - https://github.com/ahmetemre38/BootstrapExample1
   - Aykut - https://codepen.io/ayktldg/pen/mdOVopZ?editors=1000
   - Kadir - https://github.com/kadir4530/cinance
   - Gökmen - https://github.com/gsismandnm/02_Bootstrap.git
@@ -69,11 +69,8 @@ Arrays
 ---------------------------------------------------------------
 Takim #1
 - Suleyman - https://github.com/skulleci/4.hafta.git
-
-
 - Kemal - https://github.com/kenansahin10/Kw4task.giti
 - Ahmet - https://github.com/ahmetemre38/arrayOdev
-- Selman
 - Numan - https://github.com/numangrl/week4homework.git
 - Selman - https://github.com/slmn-sari/week4homework.git
 
