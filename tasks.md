@@ -91,3 +91,32 @@ Takim #3
 - Ömer
 
 
+---------------------------------------------------------------
+DOM
+---------------------------------------------------------------
+Takim #1
+- Suleyman - https://github.com/skulleci/submission_of_tasks.git
+- Kemal - 
+- Ahmet - 
+- Numan -
+- Selman - 
+
+Takim #2
+- Burhan - 
+- Kadircan
+- Aykut - 
+- Furkan
+- Yasin - 
+- Onur
+- Kadir - 
+
+Takim #3
+- Sezer  - 
+- Gökmen - 
+- Ethem
+- Tugrul -
+- Ömer
+
+
+
+
