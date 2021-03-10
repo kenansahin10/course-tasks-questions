@@ -102,7 +102,7 @@ Takim #1
 - Selman - 
 
 Takim #2
-- Burhan - 
+- Burhan - https://github.com/burhansaydin/dom-task.git
 - Kadircan
 - Aykut - 
 - Furkan
