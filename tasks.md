@@ -115,7 +115,6 @@ Takim #3
 - Gökmen - 
 - Ethem
 - Tugrul -
-- Ömer
 
 
 
