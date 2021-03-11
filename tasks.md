@@ -114,7 +114,7 @@ Takim #3
 - Sezer  -  https://github.com/sezerbayram/jsDomEvents.git
 - Gökmen - 
 - Ethem
-- Tugrul -
+- Tugrul - https://github.com/TugrulCagriTurgut/JavaScript_Tasks.git
 
 
 
