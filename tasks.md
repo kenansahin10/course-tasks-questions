@@ -104,7 +104,7 @@ Takim #1
 Takim #2
 - Burhan - https://github.com/burhansaydin/dom-task.git
 - Kadircan
-- Aykut - 
+- Aykut - https://github.com/ayktldg/dom-shoppingList
 - Furkan
 - Yasin - 
 - Onur
