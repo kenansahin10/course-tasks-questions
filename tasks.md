@@ -98,23 +98,24 @@ Takim #1
 - Suleyman - https://github.com/skulleci/submission_of_tasks.git
 - Kemal - 
 - Ahmet - https://github.com/ahmetemre38/DOM_Odev
+- Kemal - https://github.com/kenansahin10/WEEK5
 - Numan -
 - Selman - 
 
 Takim #2
 - Burhan - https://github.com/burhansaydin/dom-task.git
 - Kadircan
-- Aykut - 
+- Aykut - https://github.com/ayktldg/dom-shoppingList
 - Furkan
-- Yasin - 
+- Yasin - https://github.com/yasinmnk/DOM-TASK.git
 - Onur
 - Kadir - https://github.com/kadir4530/js-task-dom.git
 
 Takim #3
 - Sezer  -  https://github.com/sezerbayram/jsDomEvents.git
-- Gökmen - 
+- Gökmen -  https://github.com/gsismandnm/11_Task_Dom.git
 - Ethem
-- Tugrul -
+- Tugrul - https://github.com/TugrulCagriTurgut/JavaScript_Tasks.git
 
 
 
