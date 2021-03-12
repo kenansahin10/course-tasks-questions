@@ -96,8 +96,9 @@ DOM
 ---------------------------------------------------------------
 Takim #1
 - Suleyman - https://github.com/skulleci/submission_of_tasks.git
+- Kemal - 
+- Ahmet - https://github.com/ahmetemre38/DOM_Odev
 - Kemal - https://github.com/kenansahin10/WEEK5
-- Ahmet - 
 - Numan -
 - Selman - 
 
