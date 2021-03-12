@@ -106,7 +106,7 @@ Takim #2
 - Kadircan
 - Aykut - 
 - Furkan
-- Yasin - 
+- Yasin - https://github.com/yasinmnk/DOM-TASK.git
 - Onur
 - Kadir - https://github.com/kadir4530/js-task-dom.git
 
