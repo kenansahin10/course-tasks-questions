@@ -96,7 +96,7 @@ DOM
 ---------------------------------------------------------------
 Takim #1
 - Suleyman - https://github.com/skulleci/submission_of_tasks.git
-- Kemal - 
+- Kemal - https://github.com/kenansahin10/WEEK5
 - Ahmet - 
 - Numan -
 - Selman - 
