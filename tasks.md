@@ -108,7 +108,7 @@ Takim #2
 - Aykut - https://github.com/ayktldg/dom-shoppingList
 - Furkan
 - Yasin - https://github.com/yasinmnk/DOM-TASK.git
-- Onur
+- Onur  - https://github.com/viveriveniversum/tasks_js.git
 - Kadir - https://github.com/kadir4530/js-task-dom.git
 
 Takim #3
