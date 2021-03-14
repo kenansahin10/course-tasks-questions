@@ -117,6 +117,31 @@ Takim #3
 - Gökmen -  https://github.com/gsismandnm/11_Task_Dom.git
 - Tugrul - https://github.com/TugrulCagriTurgut/JavaScript_Tasks.git
 
+---------------------------------------------------------------
+OOP
+---------------------------------------------------------------
+Takim #1 (deCoder)
+- Suleyman - https://github.com/skulleci/submission_of_tasks.git
+- Kemal - 
+- Ahmet - 
+- Numan -
+- Selman - 
+
+Takim #2
+- Burhan - 
+- Kadircan
+- Aykut - 
+- Furkan -
+- Yasin - 
+- Onur - 
+- Kadir - 
+
+Takim #3
+- Sezer - 
+- Ethem -   
+- Gökmen - 
+- Tugrul - 
+
 
 
 
