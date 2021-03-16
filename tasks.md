@@ -137,7 +137,7 @@ Takim #2
 - Kadir - 
 
 Takim #3
-- Sezer - 
+- Sezer - https://github.com/sezerbayram/jsOOP.git
 - Ethem -   
 - Gökmen - 
 - Tugrul - 
