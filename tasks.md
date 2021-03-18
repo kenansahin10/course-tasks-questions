@@ -132,7 +132,7 @@ Takim #2
 - Kadircan
 - Aykut - https://github.com/ayktldg/jsClasses
 - Furkan -
-- Yasin - 
+- Yasin - https://github.com/yasinmnk/oop-task.git
 - Onur - 
 - Kadir - https://github.com/kadir4530/js-task-oop.git
 
