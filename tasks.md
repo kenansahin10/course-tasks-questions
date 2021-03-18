@@ -128,7 +128,7 @@ Takim #1 (deCoder)
 - Selman - 
 
 Takim #2
-- Burhan - 
+- Burhan - https://github.com/burhansaydin/objetcs.git
 - Kadircan
 - Aykut - 
 - Furkan -
