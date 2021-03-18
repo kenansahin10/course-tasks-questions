@@ -133,7 +133,7 @@ Takim #2
 - Aykut - 
 - Furkan -
 - Yasin - 
-- Onur - 
+- Onur - https://github.com/viveriveniversum/tasks_js.git
 - Kadir - 
 
 Takim #3
