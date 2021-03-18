@@ -145,7 +145,7 @@ Takim #2
 Takim #3
 - Sezer - https://github.com/sezerbayram/jsOOP.git
 - Ethem -   
-- Gökmen - 
+- Gökmen - https://github.com/gsismandnm/13_Task_Oop.git
 - Tugrul - 
 
 
