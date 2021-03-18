@@ -132,7 +132,7 @@ Takim #2
 - Kadircan
 - Aykut - 
 - Furkan -
-- Yasin - 
+- Yasin - https://github.com/yasinmnk/oop-task.git
 - Onur - 
 - Kadir - 
 
