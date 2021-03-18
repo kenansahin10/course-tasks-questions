@@ -122,19 +122,25 @@ OOP
 ---------------------------------------------------------------
 Takim #1 (deCoder)
 - Suleyman - https://github.com/skulleci/submission_of_tasks.git
-- Kemal - 
+- Kemal - https://github.com/kenansahin10/W6odev
 - Ahmet - 
 - Numan -
 - Selman - 
 
 Takim #2
-- Burhan - 
+- Burhan - https://github.com/burhansaydin/objetcs.git
 - Kadircan
-- Aykut - 
+- Aykut - https://github.com/ayktldg/jsClasses
 - Furkan -
+
 - Yasin - 
 - Onur - https://github.com/viveriveniversum/tasks_js.git
 - Kadir - 
+
+- Yasin - https://github.com/yasinmnk/oop-task.git
+- Onur - 
+- Kadir - https://github.com/kadir4530/js-task-oop.git
+
 
 Takim #3
 - Sezer - https://github.com/sezerbayram/jsOOP.git
