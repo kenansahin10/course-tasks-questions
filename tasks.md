@@ -123,9 +123,7 @@ OOP
 Takim #1 (deCoder)
 - Suleyman - https://github.com/skulleci/submission_of_tasks.git
 - Kemal - https://github.com/kenansahin10/W6odev
-- Ahmet - https://github.com/ahmetemre38/OOP_Odev
-- Numan -
-- Selman - 
+- Ahmet - https://github.com/ahmetemre38/OOP_Odev 
 
 Takim #2
 - Burhan - https://github.com/burhansaydin/objetcs.git
@@ -146,6 +144,30 @@ Takim #3
 - Sezer - https://github.com/sezerbayram/jsOOP.git
 - Ethem -   
 - Gökmen - https://github.com/gsismandnm/13_Task_Oop.git
+- Tugrul - 
+
+---------------------------------------------------------------
+OOP  [ Odev 2 ]
+---------------------------------------------------------------
+Takim #1 (deCoder)
+- Suleyman - https://github.com/skulleci/submission_of_tasks.git
+- Kemal - 
+- Ahmet -  
+
+Takim #2
+- Burhan - 
+- Kadircan
+- Aykut - 
+- Furkan -
+
+- Yasin - 
+- Onur - 
+- Kadir - 
+
+Takim #3
+- Sezer - 
+- Ethem -   
+- Gökmen - 
 - Tugrul - 
 
 
