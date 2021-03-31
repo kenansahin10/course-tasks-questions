@@ -164,7 +164,7 @@ Takim #2
 
 - Yasin - 
 - Onur - 
-- Kadir - 
+- Kadir - https://github.com/kadir4530/task-api.git
 
 Takim #3
 - Sezer - 
