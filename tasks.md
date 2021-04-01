@@ -153,7 +153,7 @@ OOP  [ Odev 2 ]
 ---------------------------------------------------------------
 Takim #1 (deCoder)
 - Suleyman - https://github.com/skulleci/submission_of_tasks.git
-- Kemal - 
+- Kemal - https://github.com/kenansahin10/week7odev
 - Ahmet -  
 
 Takim #2
